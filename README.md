@@ -234,13 +234,10 @@ Pastikan:
 
 ---
 
-## Catatan
+## Catatan pengembangan
 
-Saat ini deteksi gesture menggunakan metode sederhana berbasis contour solidity sehingga performa sangat dipengaruhi oleh:
-
-- kondisi pencahayaan,
-- warna latar belakang,
-- kualitas webcam,
-- konsistensi bentuk kepalan tangan.
-
-Pengembangan berikutnya dapat menambahkan gesture recognition yang lebih kompleks, sistem combo, adaptive skin calibration, dan penyimpanan high score.
+Proyek ini masih dapat ditingkatkan dengan:
+- penambahan deteksi gesture yang lebih akurat,
+- pengaturan threshold warna kulit yang lebih adaptif,
+- integrasi level dan skema musik yang lebih variatif,
+- penyimpanan skor dan replay.
